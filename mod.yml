@@ -3,9 +3,10 @@ originalAuthor: Shananas
 game: kh2
 assets:
 - name: 03system.bin
-  method: binarc  
+  method: binarc
   source:
   - name: arif
     method: copy
     source:
     - name: arif_0.list
+    type: List
